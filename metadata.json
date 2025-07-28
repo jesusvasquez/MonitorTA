@@ -1,0 +1,5 @@
+{
+  "name": "Monitor de Tensión Arterial",
+  "description": "Una aplicación web sencilla y personal para registrar y visualizar lecturas de tensión arterial, ritmo cardíaco y peso, con gráficos interactivos y opciones de exportación.",
+  "requestFramePermissions": []
+}
